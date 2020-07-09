@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+
+.imgpadrao{
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.logo{
+    width: 20px;
+}
+
+nav li{
+	display: inline-block;/* deixando o menu em linha */
+	padding: 15px; /* dando espaçamento aos itens do menu */
+
+}
+
+nav li a{
+	font-size: 20px; /* aumentando o tamanho da fonte do link do menu */
+	text-decoration: none; /* tirando o sublinhado do link do menu */
+}
